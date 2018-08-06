@@ -1,7 +1,7 @@
 <doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
   <head>
-    <doi_batch_id>62cdb7020ff920e5aa642c3d4066950dd1f01f4d</doi_batch_id>
-    <timestamp>20160626000000</timestamp>
+    <doi_batch_id>62cdb7020ff920e5aa642c3d4066950dd1e01f4d</doi_batch_id>
+    <timestamp>20161008000000</timestamp>
     <depositor>
       <depositor_name>JOSS Admin</depositor_name>
       <email_address>admin@theoj.org</email_address>
@@ -20,7 +20,7 @@
       </journal_metadata>
       <journal_issue>
         <publication_date media_type="online">
-          <month>06</month><day>29</day><year>2016</year>
+          <month>10</month><day>08</day><year>2016</year>
         </publication_date>
         <journal_volume>
           <volume>1</volume>
@@ -29,28 +29,32 @@
       </journal_issue>
       <journal_article publication_type="full_text">
         <titles>
-          <title>K-CORRECTIONS: AN EXAMINATION OF THEIR CONTRIBUTION TO THE UNCERTAINTY OF
-LUMINOSITY MEASUREMENTS</title>
+          <title>K-CORRECTIONS: AN EXAMINATION OF THEIR CONTRIBUTION TO THE UNCERTAINTY OF LUMINOSITY MEASUREMENTS</title>
         </titles>
         <contributors>
           <person_name sequence="first" contributor_role="author">
-            <given_name>David</given_name>
-            <surname>Sloan</surname>
-            <ORCID>http://orcid.org/0000-0001-7535-9032</ORCID>
+            <given_name>Sean E</given_name>
+            <surname>Lake</surname>
+            <ORCID>http://orcid.org/0000-0002-4528-7637</ORCID>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Edward L</given_name>
+            <surname>Wright</surname>
+            <ORCID>http://orcid.org/0000-0001-5058-1593</ORCID>
           </person_name>
         </contributors>
         <publication_date>
-          <month>06</month>
-          <day>29</day>
+          <month>10</month>
+          <day>08</day>
           <year>2016</year>
         </publication_date>
         <publisher_item>
-          <item_number>10.21105/astro.1602.02113</item_number>
+          <item_number>10.21105/astro.1603.07299</item_number>
         </publisher_item>
         <doi_data>
-          <doi>10.21105/astro.1602.02113</doi>
+          <doi>10.21105/astro.1603.07299</doi>
           <timestamp>20160626000000</timestamp>
-          <resource>http://astro.theoj.org/review/arxiv:1602.02113v2</resource>
+          <resource>http://astro.theoj.org/review/arxiv:1603.07299v3</resource>
         </doi_data>
       </journal_article>
     </journal>
