@@ -1,7 +1,7 @@
 <doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
   <head>
-    <doi_batch_id>62ddb7020ff920e5aa642c3d4066950dd1f01f4d</doi_batch_id>
-    <timestamp>20180805000000</timestamp>
+    <doi_batch_id>62ddb7020ff920e5aa642c3d4066950dd1f01f4e</doi_batch_id>
+    <timestamp>20180921000000</timestamp>
     <depositor>
       <depositor_name>JOSS Admin</depositor_name>
       <email_address>admin@theoj.org</email_address>
@@ -51,8 +51,8 @@
         </publisher_item>
         <doi_data>
           <doi>10.21105/astro.1708.00605</doi>
-          <timestamp>20180805000000</timestamp>
-          <resource>http://astro.theoj.org/review/arxiv:1708.00605v2</resource>
+          <timestamp>20180921000000</timestamp>
+          <resource>http://beta.theoj.org/review/arxiv:1708.00605v2</resource>
         </doi_data>
       </journal_article>
     </journal>
