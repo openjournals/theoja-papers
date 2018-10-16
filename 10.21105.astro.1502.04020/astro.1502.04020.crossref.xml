@@ -1,7 +1,7 @@
 <doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
   <head>
     <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
-    <timestamp>20180921000000</timestamp>
+    <timestamp>20181015000000</timestamp>
     <depositor>
       <depositor_name>JOSS Admin</depositor_name>
       <email_address>admin@theoj.org</email_address>
@@ -52,8 +52,8 @@
         </publisher_item>
         <doi_data>
           <doi>10.21105/astro.1502.04020</doi>
-          <timestamp>20180921000000</timestamp>
-          <resource>http://beta.theoj.org/review/arxiv:1502.04020v2</resource>
+          <timestamp>20181015000000</timestamp>
+          <resource>https://astro.theoj.org/article/5020-dynamical-analysis-of-scalar-field-cosmologies-with-spatial-curvature</resource>
         </doi_data>
       </journal_article>
     </journal>
