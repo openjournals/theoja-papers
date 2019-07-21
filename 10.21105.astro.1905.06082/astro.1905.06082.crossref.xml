@@ -1,7 +1,7 @@
 <doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
   <head>
     <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
-    <timestamp>20190626000000</timestamp>
+    <timestamp>20190721000000</timestamp>
     <depositor>
       <depositor_name>JOSS Admin</depositor_name>
       <email_address>admin@theoj.org</email_address>
@@ -36,13 +36,8 @@
             <given_name>Nora Elisa</given_name>
             <surname>Chisari</surname>
             <ORCID>http://orcid.org/0000-0003-4221-6718</ORCID>
-          </person_name>	 
-	  <person_name sequence="additional" contributor_role="author">
-            <given_name>Tilman</given_name>
-            <surname>Tröster</surname>
-            <ORCID>http://orcid.org/0000-0003-3520-2406</ORCID>
-	  </person_name>
-	  <person_name sequence="additional" contributor_role="author">
+          </person_name>
+	 <person_name sequence="additional" contributor_role="author">
             <given_name>Alexander J.</given_name>
             <surname>Mead</surname>
 	  </person_name>
@@ -64,10 +59,11 @@
             <surname>Mohr</surname>
 	  </person_name>
 	  <person_name sequence="additional" contributor_role="author">
-            <given_name>Marcel P.</given_name>
-            <surname>van Daalen</surname>
+            <given_name>Tilman</given_name>
+            <surname>Tröster</surname>
+            <ORCID>http://orcid.org/0000-0003-3520-2406</ORCID>
 	  </person_name>
-	  <person_name sequence="additional" contributor_role="author">
+	 <person_name sequence="additional" contributor_role="author">
             <given_name>David</given_name>
             <surname>Alonso</surname>
 	  </person_name>
@@ -86,7 +82,11 @@
 	  <person_name sequence="additional" contributor_role="author">
             <given_name>Adrianne</given_name>
             <surname>Slyz</surname>
-	  </person_name>	  
+	  </person_name>
+	   <person_name sequence="additional" contributor_role="author">
+            <given_name>Marcel P.</given_name>
+            <surname>van Daalen</surname>
+	  </person_name>
        </contributors>
         <publication_date>
           <month>06</month>
@@ -98,7 +98,7 @@
         </publisher_item>
         <doi_data>
           <doi>10.21105/astro.1905.06082</doi>
-          <timestamp>20190626000000</timestamp>
+          <timestamp>20190721000000</timestamp>
           <resource>https://astro.theoj.org/article/9452-modelling-baryonic-feedback-for-survey-cosmology</resource>
         </doi_data>
       </journal_article>
