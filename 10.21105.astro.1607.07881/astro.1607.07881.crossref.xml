@@ -35,7 +35,7 @@
           <person_name sequence="first" contributor_role="author">
             <given_name>Miguel A.</given_name>
             <surname>Aragon Calvo</surname>
-          </person_name>	 
+          </person_name>
 	  <person_name sequence="additional" contributor_role="author">
             <given_name>Mark C.</given_name>
             <surname>Neyrinck</surname>
@@ -43,7 +43,7 @@
 	  <person_name sequence="additional" contributor_role="author">
             <given_name>Joseph</given_name>
             <surname>Silk</surname>
-	  </person_name>	  
+	  </person_name>
        </contributors>
         <publication_date>
           <month>07</month>
@@ -54,7 +54,7 @@
           <item_number>10.21105/astro.1607.07881</item_number>
         </publisher_item>
         <doi_data>
-          <doi>10.21105/astro.1697.07881</doi>
+          <doi>10.21105/astro.1607.07881</doi>
           <timestamp>20190730000000</timestamp>
           <resource>https://astro.theoj.org/article/9875-galaxy-quenching-from-cosmic-web-detachment</resource>
         </doi_data>
