@@ -1,7 +1,7 @@
 <doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
   <head>
     <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
-    <timestamp>20200623120000</timestamp>
+    <timestamp>20200624080000</timestamp>
     <depositor>
       <depositor_name>JOSS Admin</depositor_name>
       <email_address>admin@theoj.org</email_address>
@@ -41,6 +41,7 @@
 	       <person_name sequence="additional" contributor_role="author">
             <given_name>Stephen J.</given_name>
             <surname>Warren</surname>
+            <ORCID>http://orcid.org/0000-0003-1599-5402</ORCID>
         </person_name>
        </contributors>
         <publication_date>
@@ -53,7 +54,7 @@
         </publisher_item>
         <doi_data>
           <doi>10.21105/astro.2003.05757</doi>
-          <timestamp>20200623120000</timestamp>
+          <timestamp>20200624080000</timestamp>
           <resource>https://astro.theoj.org/article/13425-a-bayesian-approach-to-the-vertical-structure-of-the-disk-of-the-milky-way</resource>
         </doi_data>
       </journal_article>
