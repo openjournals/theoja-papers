@@ -1,0 +1,166 @@
+<doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
+  <head>
+    <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
+    <timestamp>20201210010000</timestamp>
+    <depositor>
+      <depositor_name>JOSS Admin</depositor_name>
+      <email_address>admin@theoj.org</email_address>
+    </depositor>
+    <registrant>The Open Journal</registrant>
+  </head>
+  <body>
+    <journal>
+      <journal_metadata>
+        <full_title>The Open Journal of Astrophysics</full_title>
+        <abbrev_title>TheOJA</abbrev_title>
+        <issn media_type="electronic">2565-6120</issn>
+        <doi_data>
+          <doi>10.21105/astro</doi>
+          <resource>http://astro.theoj.org</resource>
+        </doi_data>
+      </journal_metadata>
+      <journal_issue>
+        <publication_date media_type="online">
+          <month>12</month><day>09</day><year>2020</year>
+        </publication_date>
+        <journal_volume>
+          <volume>3</volume>
+        </journal_volume>
+        <issue>1</issue>
+      </journal_issue>
+      <journal_article publication_type="full_text">
+        <titles>
+          <title>Full-sky photon simulation of clusters and active galactic nuclei in the soft X-rays for eROSITA</title>
+        </titles>
+        <contributors>
+          <person_name sequence="first" contributor_role="author">
+	    <given_name>Johan</given_name>
+            <surname>Comparat</surname>
+	    <ORCID>https://orcid.org/0000-0001-9200-1497</ORCID>
+          </person_name>
+	  <person_name sequence="additional" contributor_role="author">
+            <given_name>Dominique</given_name>
+            <surname>Eckert</surname>
+	    </person_name>   
+	  <person_name sequence="additional" contributor_role="author">
+            <given_name>Alexis</given_name>
+            <surname>Finoguenov</surname>
+	    </person_name>   
+	    <person_name sequence="additional" contributor_role="author">
+            <given_name>Robert</given_name>
+            <surname>Schmidt</surname>
+	    </person_name>   
+	    <person_name sequence="additional" contributor_role="author">
+            <given_name>Jeremy S.</given_name>
+            <surname>Sanders</surname>
+	  </person_name>
+	  <person_name sequence="additional" contributor_role="author">
+            <given_name>Daisuke</given_name>
+            <surname>Nagai</surname>
+	  </person_name>
+	  <person_name sequence="additional" contributor_role="author">
+            <given_name>Erwin T.</given_name>
+            <surname>Lau</surname>
+	  </person_name>
+	  <person_name sequence="additional" contributor_role="author">
+            <given_name>Florian</given_name>
+            <surname>K�fer</surname>
+	    </person_name>
+	  <person_name sequence="additional" contributor_role="author">
+            <given_name>Florian</given_name>
+            <surname>Pacaud</surname>
+	  </person_name>
+	  <person_name sequence="additional" contributor_role="author">
+            <given_name>Nicolas</given_name>
+            <surname>Clerc</surname>
+	  </person_name>
+	    <person_name sequence="additional" contributor_role="author">
+            <given_name>Thomas H.</given_name>
+            <surname>Reiprich</surname>
+	  </person_name>
+	  <person_name sequence="additional" contributor_role="author">
+            <given_name>Esra</given_name>
+            <surname>Bulbul</surname>
+	  </person_name>
+	     <person_name sequence="additional" contributor_role="author">
+            <given_name>Jacob Ider</given_name>
+            <surname>Chitham</surname>
+	  </person_name>
+	   <person_name sequence="additional" contributor_role="author">
+            <given_name>Chia-Hsun</given_name>
+            <surname>Chiang</surname>
+	  </person_name>
+	     <person_name sequence="additional" contributor_role="author">
+            <given_name>Vittorio</given_name>
+            <surname>Ghirardini</surname>
+	   </person_name>
+	    <person_name sequence="additional" contributor_role="author">
+            <given_name>Violeta</given_name>
+            <surname>Gonzalez-Perez</surname>
+	  </person_name>
+	   <person_name sequence="additional" contributor_role="author">
+            <given_name>Ghassem</given_name>
+            <surname>Gozaliasl</surname>
+	  </person_name>
+	   <person_name sequence="additional" contributor_role="author">
+            <given_name>Charles C.</given_name>
+            <surname>Fitzpatrick</surname>
+	  </person_name>
+	   <person_name sequence="additional" contributor_role="author">
+            <given_name>Anatoly</given_name>
+            <surname>Klypin</surname>
+	  </person_name>
+	  <person_name sequence="additional" contributor_role="author">
+            <given_name>Andrea</given_name>
+            <surname>Merloni</surname>
+	  </person_name>
+	   <person_name sequence="additional" contributor_role="author">
+            <given_name>Kirpal</given_name>
+            <surname>Nandra</surname>
+	  </person_name>
+	   <person_name sequence="additional" contributor_role="author">
+            <given_name>Teng</given_name>
+            <surname>Liu</surname>
+	  </person_name>
+	   <person_name sequence="additional" contributor_role="author">
+            <given_name>Francisco</given_name>
+            <surname>Prada</surname>
+	  </person_name>
+	   <person_name sequence="additional" contributor_role="author">
+            <given_name>Miriam</given_name>
+            <surname>Ramos-Ceja</surname>
+	  </person_name>
+	   <person_name sequence="additional" contributor_role="author">
+            <given_name>Marra</given_name>
+            <surname>Salvato</surname>
+	  </person_name>
+	   <person_name sequence="additional" contributor_role="author">
+            <given_name>Riccardo</given_name>
+            <surname>Seppi</surname>
+	  </person_name>
+	   <person_name sequence="additional" contributor_role="author">
+            <given_name>Elmo</given_name>
+            <surname>Tempel</surname>
+	  </person_name>
+	   <person_name sequence="additional" contributor_role="author">
+            <given_name>Gustavo</given_name>
+            <surname>Yepes</surname>
+	  </person_name>
+       </contributors>
+        <publication_date>
+          <month>12</month>
+          <day>09</day>
+          <year>2020</year>
+        </publication_date>
+        <publisher_item>
+          <item_number>10.21105/astro.2008.08404</item_number>
+        </publisher_item>
+        <doi_data>
+          <doi>10.21105/astro.2008.08404</doi>
+          <timestamp>20201210010000</timestamp>
+          <resource>https://astro.theoj.org/article/18243-full-sky-photon-simulation-of-clusters-and-active-galactic-nuclei-in-the-soft-x-rays-for-erosita</resource>
+        </doi_data>
+      </journal_article>
+    </journal>
+  </body>
+</doi_batch>
