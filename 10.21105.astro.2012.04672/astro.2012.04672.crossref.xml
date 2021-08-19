@@ -1,0 +1,433 @@
+<doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
+  <head>
+    <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
+    <timestamp>20210806000000</timestamp>
+    <depositor>
+      <depositor_name>JOSS Admin</depositor_name>
+      <email_address>admin@theoj.org</email_address>
+    </depositor>
+    <registrant>The Open Journal</registrant>
+  </head>
+  <body>
+    <journal>
+      <journal_metadata>
+        <full_title>The Open Journal of Astrophysics</full_title>
+        <abbrev_title>TheOJA</abbrev_title>
+        <issn media_type="electronic">2565-6120</issn>
+        <doi_data>
+          <doi>10.21105/astro</doi>
+          <resource>http://astro.theoj.org</resource>
+        </doi_data>
+      </journal_metadata>
+      <journal_issue>
+        <publication_date media_type="online">
+          <month>07</month><day>26</day><year>2021</year>
+        </publication_date>
+        <journal_volume>
+          <volume>4</volume>
+        </journal_volume>
+        <issue>1</issue>
+      </journal_issue>
+      <journal_article publication_type="full_text">
+        <titles>
+          <title>Euclid: Forecasts for k-cut 3×2 Point Statistics</title>
+        </titles>
+        <contributors>
+          <person_name sequence="first" contributor_role="author">
+            <given_name>Peter L.</given_name>
+            <surname>Taylor</surname>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>T.</given_name>
+            <surname>Kitching</surname>
+          </person_name>
+	  <person_name sequence="additional" contributor_role="author">
+          <given_name>V. F. </given_name>
+        <surname>Cardone</surname>
+        </person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>A. </given_name>
+        <surname>Ferté</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>E. M. </given_name>
+        <surname>Huff</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>F. </given_name>
+        <surname>Bernardeau</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author"> 
+<given_name>J. </given_name>
+        <surname>Rhodes</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>A. C. </given_name>
+        <surname>Deshpande</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>I. </given_name>
+        <surname>Tutusaus</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>Alkistis</given_name>
+        <surname>Pourtsidou</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>S. </given_name>
+        <surname>Camera</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>C. </given_name>
+        <surname>Carbone</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>S. </given_name>
+        <surname>Casas</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>M. </given_name>
+        <surname>Martinelli</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>V. </given_name>
+        <surname>Pettorino</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>Z. </given_name>
+        <surname>Sakr</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>D. </given_name>
+        <surname>Sapone</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author"> 
+<given_name>V. </given_name>
+        <surname>Yankelevich</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>N. </given_name>
+        <surname>Auricchio</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>A. </given_name>
+        <surname>Balestra</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>C. </given_name>
+        <surname>Bodendorf</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>D. </given_name>
+        <surname>Bonino</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>A. </given_name>
+        <surname>Boucaud</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>Enzo</given_name>
+        <surname>Branchini</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>M. </given_name>
+        <surname>Brescia</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>V. </given_name>
+        <surname>Capobianco</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>J. </given_name>
+        <surname>Carretero</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>M. </given_name>
+        <surname>Castellano</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>S. </given_name>
+        <surname>Cavuoti</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>A. </given_name>
+        <surname>Cimatti</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>R. </given_name>
+        <surname>Cledassou</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>G. </given_name>
+        <surname>Congedo</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author"> 
+<given_name>L. </given_name>
+        <surname>Conversi</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>L. </given_name>
+        <surname>Corcione</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>Mark</given_name>
+        <surname>Cropper</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>E. </given_name>
+        <surname>Franceschi</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>B.</given_name>
+        <surname>Garilli</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>B. </given_name>
+        <surname>Gillis</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>C. </given_name>
+        <surname>Giocoli</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>L. </given_name>
+        <surname>Guzzo</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>S. V. H. </given_name>
+        <surname>Haugan</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>W. </given_name>
+        <surname>Holmes</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>F.</given_name>
+        <surname>Hormuth</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>Knud</given_name>
+        <surname>Jahnke</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>S.</given_name>
+        <surname>Kermiche</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>M. </given_name>
+        <surname>Kilbinger</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>M. </given_name>
+        <surname>Kunz</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>H. </given_name>
+        <surname>Kurki-Suonio</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>S. </given_name>
+        <surname>Ligori</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>Per B. </given_name>
+        <surname>Lilje</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>I. </given_name>
+        <surname>Lloro</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>O. </given_name>
+        <surname>Marggraf</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>K. </given_name>
+        <surname>Markovic</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>R. </given_name>
+        <surname>Massey</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>S. </given_name>
+        <surname>Mei</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>E. </given_name>
+        <surname>Medinaceli</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>M. </given_name>
+        <surname>Meneghetti</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>G. </given_name>
+        <surname>Meylan</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>M. </given_name>
+        <surname>Moresco</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>B. </given_name>
+        <surname>Morin</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>Lauro</given_name>
+        <surname>Moscardini</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>S. </given_name>
+        <surname>Niemi</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>C. </given_name>
+        <surname>Padilla</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>F. </given_name>
+        <surname>Pasian</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>S. </given_name>
+        <surname>Paltani</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>K. </given_name>
+        <surname>Pedersen</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>S.</given_name>
+        <surname>Pires</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>Will J. </given_name>
+        <surname>Percival</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>G. </given_name>
+        <surname>Polenta</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>M. </given_name>
+        <surname>Poncet</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>L. </given_name>
+        <surname>Popa</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>F. </given_name>
+        <surname>Raison</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>M.</given_name>
+        <surname>Roncarelli</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>E. </given_name>
+        <surname>Rossetti</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>R. </given_name>
+        <surname>Saglia</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>Peter </given_name>
+        <surname>Schneider</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>A.</given_name>
+        <surname>Secroun</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>G. </given_name>
+        <surname>Seidel</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>S. </given_name>
+        <surname>Serrano</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>C. </given_name>
+        <surname>Sirignano</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>G. </given_name>
+        <surname>Sirri</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>F. </given_name>
+        <surname>Sureau</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>P. Tallada </given_name>
+        <surname>Crespí</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>D. </given_name>
+        <surname>Tavagnacco</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>A. N. </given_name>
+        <surname>Taylor</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>H. I. </given_name>
+        <surname>Teplitz</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>I. </given_name>
+        <surname>Tereno</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>R. </given_name>
+        <surname>Toledo-Moreo</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>E. A. </given_name>
+        <surname>Valentijn</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>L. </given_name>
+        <surname>Valenziano</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>T. </given_name>
+        <surname>Vassallo</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author"> 
+<given_name>Yun </given_name>
+        <surname>Wang</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>Jochen</given_name>
+        <surname>Weller</surname> 
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>A. </given_name>
+        <surname>Zacchei</surname>
+</person_name>
+	  <person_name sequence="additional" contributor_role="author">
+<given_name>J. </given_name>
+        <surname>Zoubian</surname>
+</person_name>
+       </contributors>
+        <publication_date>
+          <month>07</month>
+          <day>26</day>
+          <year>2021</year>
+        </publication_date>
+        <publisher_item>
+          <item_number>10.21105/astro.2012.04672</item_number>
+        </publisher_item>
+        <doi_data>
+          <doi>10.21105/astro.2012.04672</doi>
+          <timestamp>20210806000000</timestamp>
+          <resource>https://astro.theoj.org/article/26100-euclid-forecasts-for-k-cut-3-times-2-point-statistics</resource>
+        </doi_data>
+      </journal_article>
+    </journal>
+  </body>
+</doi_batch>
