@@ -1,7 +1,7 @@
 <doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
   <head>
     <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
-    <timestamp>20210818170000</timestamp>
+    <timestamp>20210820080000</timestamp>
     <depositor>
       <depositor_name>JOSS Admin</depositor_name>
       <email_address>admin@theoj.org</email_address>
@@ -34,15 +34,15 @@
         </titles>
         <contributors>
           <person_name sequence="first" contributor_role="author">
-            <given_name>Steven</given_name>
-            <surname>Gratton</surname>
-            <ORCID>https://orcid.org/0000-0002-9010-9805</ORCID>
-          </person_name>
-          <person_name sequence="additional" contributor_role="author">
             <given_name>George</given_name>
             <surname>Efstathiou</surname>
           <ORCID>https://orcid.org/0000-0002-0022-4501</ORCID>
-	  </person_name>	  
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Steven</given_name>
+            <surname>Gratton</surname>
+            <ORCID>https://orcid.org/0000-0002-9010-9805</ORCID>
+	        </person_name> 
        </contributors>
         <publication_date>
           <month>08</month>
@@ -54,7 +54,7 @@
         </publisher_item>
         <doi_data>
           <doi>10.21105/astro.1910.00483</doi>
-          <timestamp>20210818170000</timestamp>
+          <timestamp>20210820080000</timestamp>
           <resource>https://astro.theoj.org/article/27518-a-detailed-description-of-the-camspec-likelihood-pipeline-and-a-reanalysis-of-the-planck-high-frequency-maps</resource>
         </doi_data>
       </journal_article>
