@@ -1,7 +1,7 @@
 <doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
   <head>
     <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
-    <timestamp>20210928000000</timestamp>
+    <timestamp>20210929130000</timestamp>
     <depositor>
       <depositor_name>JOSS Admin</depositor_name>
       <email_address>admin@theoj.org</email_address>
@@ -37,6 +37,10 @@
             <given_name>Jondalar L.J.</given_name>
             <surname>Kuß</surname>
           </person_name>  
+         <person_name sequence="additional" contributor_role="author">
+            <given_name>David J.E.</given_name>
+            <surname>Marsh</surname>
+	  </person_name>
        </contributors>
         <publication_date>
           <month>09</month>
@@ -48,7 +52,7 @@
         </publisher_item>
         <doi_data>
           <doi>10.21105/astro.2106.03528</doi>
-          <timestamp>20210928000000</timestamp>
+          <timestamp>20210929130000</timestamp>
           <resource>https://astro.theoj.org/article/28847-squeezing-the-axion</resource>
         </doi_data>
       </journal_article>
