@@ -1,0 +1,199 @@
+<doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
+  <head>
+    <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
+    <timestamp>20211019150000</timestamp>
+    <depositor>
+      <depositor_name>JOSS Admin</depositor_name>
+      <email_address>admin@theoj.org</email_address>
+    </depositor>
+    <registrant>The Open Journal</registrant>
+  </head>
+  <body>
+    <journal>
+      <journal_metadata>
+        <full_title>The Open Journal of Astrophysics</full_title>
+        <abbrev_title>TheOJA</abbrev_title>
+        <issn media_type="electronic">2565-6120</issn>
+        <doi_data>
+          <doi>10.21105/astro</doi>
+          <resource>http://astro.theoj.org</resource>
+        </doi_data>
+      </journal_metadata>
+      <journal_issue>
+        <publication_date media_type="online">
+          <month>10</month><day>19</day><year>2021</year>
+        </publication_date>
+        <journal_volume>
+          <volume>4</volume>
+        </journal_volume>
+        <issue>1</issue>
+      </journal_issue>
+      <journal_article publication_type="full_text">
+        <titles>
+          <title>The LSST-DESC 3x2pt Tomography Optimization Challenge</title>
+        </titles>
+        <contributors>
+           <person_name sequence="first" contributor_role="author">
+            <given_name>Joe</given_name>
+            <surname>Zuntz</surname>
+            <ORCID>https://orcid.org/0000-0001-9789-9646</ORCID>
+          </person_name>
+         <person_name sequence="additional" contributor_role="author">
+            <given_name>François</given_name>
+            <surname>Lanusse</surname>
+          <ORCID>https://orcid.org/0000-0001-7956-0542</ORCID>
+	  </person_name>	
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Alex I.</given_name>
+            <surname>Malz</surname>
+           <ORCID>https://orcid.org/0000-0002-8676-1622</ORCID>
+            </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Angus H.</given_name>
+            <surname>Wright</surname>
+            <ORCID>https://orcid.org/0000-0001-7363-7932</ORCID>
+	  </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Anže</given_name>
+            <surname>Slosar</surname>
+            <ORCID>https://orcid.org/0000-0002-8713-3695</ORCID>
+	  </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Bela</given_name>
+            <surname>Abolfathi</surname>
+            <ORCID>https://orcid.org/0000-0003-1820-8486</ORCID>
+	  </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>David</given_name>
+            <surname>Alonso</surname>
+            <ORCID>https://orcid.org/0000-0002-4598-9719</ORCID>
+	  </person_name>
+           <person_name sequence="additional" contributor_role="author">
+            <given_name>Abby</given_name>
+            <surname>Bault</surname>
+            <ORCID>https://orcid.org/0000-0002-9964-1005</ORCID>
+	  </person_name>
+           <person_name sequence="additional" contributor_role="author">
+            <given_name>Clécio R.</given_name>
+            <surname>Bom</surname>
+            <ORCID>https://orcid.org/0000-0003-4383-2969</ORCID>
+	  </person_name>
+           <person_name sequence="additional" contributor_role="author">
+            <given_name>Massimo</given_name>
+            <surname>Brescia</surname>
+            <ORCID>https://orcid.org/0000-0001-9506-5680</ORCID>
+	  </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Adam</given_name>
+            <surname>Broussard</surname>
+            <ORCID>https://orcid.org/0000-0002-7767-5044</ORCID>
+	  </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Jean-Eric</given_name>
+            <surname>Campagne</surname>
+            <ORCID>https://orcid.org/0000-0002-1590-6927</ORCID>
+	  </person_name>
+         <person_name sequence="additional" contributor_role="author">
+            <given_name>Stefano</given_name>
+            <surname>Cavuoti</surname>
+            <ORCID>https://orcid.org/0000-0002-3787-4196</ORCID>
+	  </person_name>
+         <person_name sequence="additional" contributor_role="author">
+            <given_name>Eduardo S.</given_name>
+            <surname>Cypriani</surname>
+            <ORCID>https://orcid.org/0000-0001-9196-7038</ORCID>
+	  </person_name>
+         <person_name sequence="additional" contributor_role="author">
+            <given_name>Bernardo M.O.</given_name>
+            <surname>Fraga</surname>
+            <ORCID>https://orcid.org/0000-0002-6395-3410</ORCID>
+	  </person_name>
+         <person_name sequence="additional" contributor_role="author">
+            <given_name>Eric</given_name>
+            <surname>Gawiser</surname>
+            <ORCID>https://orcid.org/0000-0003-1530-8713</ORCID>
+	  </person_name>
+         <person_name sequence="additional" contributor_role="author">
+            <given_name>Elizabeth J.</given_name>
+            <surname>Gonzalez</surname>
+            <ORCID>https://orcid.org/0000-0002-0226-9893</ORCID>
+	  </person_name>
+         <person_name sequence="additional" contributor_role="author">
+            <given_name>Dylan</given_name>
+            <surname>Green</surname>
+            <ORCID>https://orcid.org/0000-0002-0676-3661</ORCID>
+	  </person_name>
+         <person_name sequence="additional" contributor_role="author">
+            <given_name>Peter</given_name>
+            <surname>Hatfield</surname>
+            <ORCID>https://orcid.org/0000-0002-3065-457X</ORCID>
+	  </person_name>
+         <person_name sequence="additional" contributor_role="author">
+            <given_name>Kartheik</given_name>
+            <surname>Iyer</surname>
+            <ORCID>https://orcid.org/0000-0001-9298-3523</ORCID>
+	  </person_name>
+         <person_name sequence="additional" contributor_role="author">
+            <given_name>David</given_name>
+            <surname>Kirkby</surname>
+            <ORCID>https://orcid.org/0000-0002-8828-5463</ORCID>
+	  </person_name>
+         <person_name sequence="additional" contributor_role="author">
+            <given_name>Adrina</given_name>
+            <surname>Nicola</surname>
+            <ORCID>https://orcid.org/0000-0003-2792-6252</ORCID>
+	  </person_name>
+         <person_name sequence="additional" contributor_role="author">
+            <given_name>Erfan</given_name>
+            <surname>Nourbaksh</surname>
+            <ORCID>https://orcid.org/0000-0003-3827-4691</ORCID>
+	  </person_name>
+         <person_name sequence="additional" contributor_role="author">
+            <given_name>Andy</given_name>
+            <surname>Park</surname>
+            <ORCID>https://orcid.org/0000-0002-8318-8226</ORCID>
+	  </person_name>
+         <person_name sequence="additional" contributor_role="author">
+            <given_name>Gabriel</given_name>
+            <surname>Teixeira</surname>
+            <ORCID>https://orcid.org/0000-0002-1594-208X</ORCID>
+	  </person_name>
+         <person_name sequence="additional" contributor_role="author">
+            <given_name>Katrin</given_name>
+            <surname>Heitman</surname>
+            <ORCID>https://orcid.org/0000-0003-1468-8232</ORCID>
+	  </person_name>
+         <person_name sequence="additional" contributor_role="author">
+            <given_name>Eve</given_name>
+            <surname>Novacs</surname>
+            <ORCID>https://orcid.org/0000-0002-2545-1989</ORCID>
+	  </person_name>
+         <person_name sequence="additional" contributor_role="author">
+            <given_name>Eve</given_name>
+            <surname>Kovacs</surname>
+            <ORCID>https://orcid.org/0000-0002-2545-1989</ORCID>
+	  </person_name>
+         <person_name sequence="additional" contributor_role="author">
+            <given_name>Yao-Yun</given_name>
+            <surname>Mao</surname>
+            <ORCID>https://orcid.org/0000-0002-1200-0820</ORCID>
+	  </person_name>
+         <organization sequence="additional" contributor_role="author">The LSST Dark Energy Science Collaboration (LSST DESC)</organization>
+       </contributors>
+        <publication_date>
+          <month>10</month>
+          <day>19</day>
+          <year>2021</year>
+        </publication_date>
+        <publisher_item>
+          <item_number>10.21105/astro.2108.13418</item_number>
+        </publisher_item>
+        <doi_data>
+          <doi>10.21105/astro.2108.13418</doi>
+          <timestamp>20211019150000</timestamp>
+          <resource>https://astro.theoj.org/article/29530-the-lsst-desc-3x2pt-tomography-optimization-challenge</resource>
+        </doi_data>
+      </journal_article>
+    </journal>
+  </body>
+</doi_batch>
