@@ -1,7 +1,7 @@
 <doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
   <head>
     <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
-    <timestamp>20211019150000</timestamp>
+    <timestamp>20211103000000</timestamp>
     <depositor>
       <depositor_name>JOSS Admin</depositor_name>
       <email_address>admin@theoj.org</email_address>
@@ -100,7 +100,7 @@
 	  </person_name>
          <person_name sequence="additional" contributor_role="author">
             <given_name>Eduardo S.</given_name>
-            <surname>Cypriani</surname>
+            <surname>Cypriano</surname>
             <ORCID>https://orcid.org/0000-0001-9196-7038</ORCID>
 	  </person_name>
          <person_name sequence="additional" contributor_role="author">
@@ -139,13 +139,13 @@
             <ORCID>https://orcid.org/0000-0002-8828-5463</ORCID>
 	  </person_name>
          <person_name sequence="additional" contributor_role="author">
-            <given_name>Adrina</given_name>
+            <given_name>Andrina</given_name>
             <surname>Nicola</surname>
             <ORCID>https://orcid.org/0000-0003-2792-6252</ORCID>
 	  </person_name>
          <person_name sequence="additional" contributor_role="author">
             <given_name>Erfan</given_name>
-            <surname>Nourbaksh</surname>
+            <surname>Nourbakhsh</surname>
             <ORCID>https://orcid.org/0000-0003-3827-4691</ORCID>
 	  </person_name>
          <person_name sequence="additional" contributor_role="author">
@@ -160,25 +160,20 @@
 	  </person_name>
          <person_name sequence="additional" contributor_role="author">
             <given_name>Katrin</given_name>
-            <surname>Heitman</surname>
+            <surname>Heitmann</surname>
             <ORCID>https://orcid.org/0000-0003-1468-8232</ORCID>
 	  </person_name>
-         <person_name sequence="additional" contributor_role="author">
-            <given_name>Eve</given_name>
-            <surname>Novacs</surname>
-            <ORCID>https://orcid.org/0000-0002-2545-1989</ORCID>
-	  </person_name>
-         <person_name sequence="additional" contributor_role="author">
+           <person_name sequence="additional" contributor_role="author">
             <given_name>Eve</given_name>
             <surname>Kovacs</surname>
             <ORCID>https://orcid.org/0000-0002-2545-1989</ORCID>
 	  </person_name>
          <person_name sequence="additional" contributor_role="author">
-            <given_name>Yao-Yun</given_name>
+            <given_name>Yao-Yuan</given_name>
             <surname>Mao</surname>
             <ORCID>https://orcid.org/0000-0002-1200-0820</ORCID>
 	  </person_name>
-         <organization sequence="additional" contributor_role="author">The LSST Dark Energy Science Collaboration (LSST DESC)</organization>
+         <organization sequence="additional" contributor_role="author">The LSST Dark Energy Science Collaboration</organization>
        </contributors>
         <publication_date>
           <month>10</month>
@@ -190,7 +185,7 @@
         </publisher_item>
         <doi_data>
           <doi>10.21105/astro.2108.13418</doi>
-          <timestamp>20211019150000</timestamp>
+          <timestamp>20211103000000</timestamp>
           <resource>https://astro.theoj.org/article/29530-the-lsst-desc-3x2pt-tomography-optimization-challenge</resource>
         </doi_data>
       </journal_article>

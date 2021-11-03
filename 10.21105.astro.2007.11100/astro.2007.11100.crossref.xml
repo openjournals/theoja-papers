@@ -1,7 +1,7 @@
 <doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
   <head>
     <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
-    <timestamp>20210217010000</timestamp>
+    <timestamp>20211103010000</timestamp>
     <depositor>
       <depositor_name>JOSS Admin</depositor_name>
       <email_address>admin@theoj.org</email_address>
@@ -37,7 +37,8 @@
             <given_name>Alex G.</given_name>
             <surname>Kim</surname>
             <ORCID>https://orcid.org/0000-0001-6315-8743</ORCID>
-          </person_name>	  
+          </person_name>	
+       <organization sequence="additional" contributor_role="author">The LSST Dark Energy Science Collaboration</organization>  
        </contributors>
         <publication_date>
           <month>02</month>
@@ -49,7 +50,7 @@
         </publisher_item>
         <doi_data>
           <doi>10.21105/astro.2007.11100</doi>
-          <timestamp>20210217010000</timestamp>
+          <timestamp>20211103010000</timestamp>
           <resource>https://astro.theoj.org/article/21178-characterizing-the-sample-selection-for-supernova-cosmology</resource>
         </doi_data>
       </journal_article>
