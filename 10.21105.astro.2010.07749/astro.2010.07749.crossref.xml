@@ -1,7 +1,7 @@
 <doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
   <head>
     <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
-    <timestamp>20201215000000</timestamp>
+    <timestamp>20211217171000</timestamp>
     <depositor>
       <depositor_name>JOSS Admin</depositor_name>
       <email_address>admin@theoj.org</email_address>
@@ -56,7 +56,7 @@
         </publisher_item>
         <doi_data>
           <doi>10.21105/astro.2010.07749</doi>
-          <timestamp>20201215000000</timestamp>
+          <timestamp>20211217171000</timestamp>
           <resource>https://astro.theoj.org/article/18392-propagating-residual-biases-in-masked-cosmic-shear-power-spectra</resource>
         </doi_data>
       </journal_article>
