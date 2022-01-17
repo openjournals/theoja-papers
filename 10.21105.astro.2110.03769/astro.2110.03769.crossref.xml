@@ -1,0 +1,205 @@
+<doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
+  <head>
+    <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
+    <timestamp>20220117120000</timestamp>
+    <depositor>
+      <depositor_name>JOSS Admin</depositor_name>
+      <email_address>admin@theoj.org</email_address>
+    </depositor>
+    <registrant>The Open Journal</registrant>
+  </head>
+  <body>
+    <journal>
+      <journal_metadata>
+        <full_title>The Open Journal of Astrophysics</full_title>
+        <abbrev_title>TheOJA</abbrev_title>
+        <issn media_type="electronic">2565-6120</issn>
+        <doi_data>
+          <doi>10.21105/astro</doi>
+          <resource>http://astro.theoj.org</resource>
+        </doi_data>
+      </journal_metadata>
+      <journal_issue>
+        <publication_date media_type="online">
+          <month>01</month><day>17</day><year>2022</year>
+        </publication_date>
+        <journal_volume>
+          <volume>5</volume>
+        </journal_volume>
+      </journal_issue>
+      <journal_article publication_type="full_text">
+        <titles>
+          <title>Validating Synthetic Galaxy Catalogs for Dark Energy Science in the LSST Era</title>
+        </titles>
+        <contributors>
+          <person_name sequence="first" contributor_role="author">
+            <given_name>Eve</given_name>
+            <surname>Kovacs</surname>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Yao-Yuan</given_name> 
+          <surname>Mao</surname>
+         </person_name>
+   	  <person_name sequence="additional" contributor_role="author">
+          <given_name>Michel</given_name> 
+          <surname>Aguena</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Anita</given_name> 
+          <surname>Bahmanyar</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Adam</given_name> 
+          <surname>Broussard</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>James</given_name> 
+          <surname>Butler</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Duncan</given_name> 
+          <surname>Campbell</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Chihway</given_name> 
+          <surname>Chang</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Shenming</given_name> 
+          <surname>Fu</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Katrin</given_name> 
+          <surname>Heitmann</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Danila</given_name> 
+          <surname>Korytov</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>François</given_name> 
+          <surname>Lanusse</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Patricia</given_name> 
+          <surname>Larsen</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Rachel</given_name> 
+          <surname>Mandelbaum</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Christopher B.</given_name> 
+          <surname>Morrison</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Constantin</given_name> 
+          <surname>Payerne</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Marina</given_name> 
+          <surname>Ricci</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Eli</given_name> 
+          <surname>Rykoff</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>F. Javier</given_name> 
+          <surname>Sánchez</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Ignacio</given_name> 
+          <surname>Sevilla-Noarbe</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Melanie</given_name> 
+          <surname>Simet</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Chun-Hao</given_name> 
+          <surname>To</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Vinu</given_name> 
+          <surname>Vikraman</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Rongpu</given_name> 
+          <surname>Zhou</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Camille</given_name> 
+          <surname>Avestruz</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Christophe</given_name> 
+          <surname>Benoist</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Andrew J.</given_name> 
+          <surname>Benson</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Lindsey</given_name> 
+          <surname>Bleem</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Aleksandra</given_name> 
+          <surname>Ćiprianović</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Céline</given_name> 
+          <surname>Combet</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Eric</given_name> 
+          <surname>Gawiser</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Shiyuan</given_name> 
+          <surname>He</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Remy</given_name> 
+          <surname>Joseph</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Jeffrey A.</given_name> 
+          <surname>Newman</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Judit</given_name> 
+          <surname>Prat</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Samuel</given_name> 
+          <surname>Schmidt</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Anže</given_name> 
+          <surname>Slosar</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Joe</given_name> 
+          <surname>Zuntz</surname>
+         </person_name>
+         <organization sequence="additional" contributor_role="author">The LSST Dark Energy Science Collaboration</organization>
+       </contributors>
+        <publication_date>
+          <month>01</month>
+          <day>17</day>
+          <year>2022</year>
+        </publication_date>
+        <publisher_item>
+          <item_number>10.21105/astro.2110.03769</item_number>
+        </publisher_item>
+        <doi_data>
+          <doi>10.21105/astro.2110.03769</doi>
+          <timestamp>20220117120000</timestamp>
+          <resource>https://astro.theoj.org/article/31768-validating-synthetic-galaxy-catalogs-for-dark-energy-science-in-the-lsst-era</resource>
+        </doi_data>
+      </journal_article>
+    </journal>
+  </body>
+</doi_batch>
