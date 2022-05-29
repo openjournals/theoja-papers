@@ -1,7 +1,7 @@
 <doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
   <head>
     <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
-    <timestamp>20220528010000</timestamp>
+    <timestamp>20220529000000</timestamp>
     <depositor>
       <depositor_name>JOSS Admin</depositor_name>
       <email_address>admin@theoj.org</email_address>
@@ -35,7 +35,7 @@
         <contributors>
           <person_name sequence="first" contributor_role="author">
             <given_name>Aurora</given_name>
-            <surname>Croissart</surname>
+            <surname>Coissart</surname>
           </person_name>
 	  <person_name sequence="additional" contributor_role="author">
             <given_name>Michael</given_name>
@@ -68,7 +68,7 @@
         </publisher_item>
         <doi_data>
           <doi>10.21105/astro.2203.08768</doi>
-          <timestamp>20220528010000</timestamp>
+          <timestamp>20220529000000</timestamp>
           <resource>https://astro.theoj.org/article/36078-cosmo-paleontology-statistics-of-fossil-groups-in-a-gravity-only-simulation</resource>
         </doi_data>
       </journal_article>
