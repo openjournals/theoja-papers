@@ -1,7 +1,7 @@
 <doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
   <head>
     <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
-    <timestamp>20220715130000</timestamp>
+    <timestamp>20220801200000</timestamp>
     <depositor>
       <depositor_name>JOSS Admin</depositor_name>
       <email_address>admin@theoj.org</email_address>
@@ -30,7 +30,7 @@
       </journal_issue>
       <journal_article publication_type="full_text">
         <titles>
-          <title>Differentiable Predictions for Large Scale Structure with SHAMNet</title>
+          <title>V889 Her: abrupt changes in the magnetic field or differential rotation?</title>
         </titles>
         <contributors>
           <person_name sequence="first" contributor_role="author">
@@ -64,7 +64,7 @@
         </publisher_item>
         <doi_data>
           <doi>10.21105/astro.2203.13398</doi>
-          <timestamp>20220715130000</timestamp>
+          <timestamp>20220801200000</timestamp>
           <resource>https://astro.theoj.org/article/37136-v889-her-abrupt-changes-in-the-magnetic-field-or-differential-rotation</resource>
         </doi_data>
       </journal_article>
