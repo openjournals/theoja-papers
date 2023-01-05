@@ -1,0 +1,82 @@
+<doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
+  <head>
+    <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
+    <timestamp>20230104180000</timestamp>
+    <depositor>
+      <depositor_name>JOSS Admin</depositor_name>
+      <email_address>admin@theoj.org</email_address>
+    </depositor>
+    <registrant>The Open Journal</registrant>
+  </head>
+  <body>
+    <journal>
+      <journal_metadata>
+        <full_title>The Open Journal of Astrophysics</full_title>
+        <abbrev_title>TheOJA</abbrev_title>
+        <issn media_type="electronic">2565-6120</issn>
+        <doi_data>
+          <doi>10.21105/astro</doi>
+          <resource>http://astro.theoj.org</resource>
+        </doi_data>
+      </journal_metadata>
+      <journal_issue>
+        <publication_date media_type="online">
+          <month>12</month><day>23</day><year>2022</year>
+        </publication_date>
+        <journal_volume>
+          <volume>5</volume>
+        </journal_volume>
+        <issue>1</issue>
+      </journal_issue>
+      <journal_article publication_type="full_text">
+        <titles>
+          <title>The Cosmic Graph: Optimal Information Extraction from Large-Scale Structure using Catalogues</title>
+        </titles>
+        <contributors>
+          <person_name sequence="first" contributor_role="author">
+            <given_name>T Lucas</given_name>
+            <surname>Makinen</surname>
+          <ORCID>https://orcid.org/0000-0002-3795-6933</ORCID>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Tom</given_name>
+            <surname>Charnock</surname>
+          <ORCID>https://orcid.org/0000-0002-3479-3542</ORCID>
+	  </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Pablo</given_name>
+            <surname>Lemos</surname>
+          <ORCID>https://orcid.org/0000-0002-4728-8473</ORCID>
+	  </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Natalie</given_name>
+            <surname>Porqueres</surname>
+          <ORCID>https://orcid.org/0000-0002-7599-966X</ORCID>
+	  </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Alan F</given_name>
+            <surname>Heavens</surname>
+          <ORCID>https://orcid.org/0000-0003-1586-2773</ORCID>
+	  </person_name>
+          <person_name sequence="additional" contributor_role="author">
+            <given_name>Benjamin D</given_name>
+            <surname>Wandelt</surname>
+	  </person_name>
+        </contributors>
+        <publication_date>
+          <month>012</month>
+          <day>23</day>
+          <year>2022</year>
+        </publication_date>
+        <publisher_item>
+          <item_number>10.21105/astro.2207.05202</item_number>
+        </publisher_item>
+        <doi_data>
+          <doi>10.21105/astro.2207.05202</doi>
+          <timestamp>20230104180000</timestamp>
+          <resource>https://astro.theoj.org/article/57787-the-cosmic-graph-optimal-information-extraction-from-large-scale-structure-using-catalogues</resource>
+        </doi_data>
+      </journal_article>
+    </journal>
+  </body>
+</doi_batch>
