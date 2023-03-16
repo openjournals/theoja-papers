@@ -1,0 +1,228 @@
+<doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
+  <head>
+    <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
+    <timestamp>20230316160000</timestamp>
+    <depositor>
+      <depositor_name>JOSS Admin</depositor_name>
+      <email_address>admin@theoj.org</email_address>
+    </depositor>
+    <registrant>The Open Journal</registrant>
+  </head>
+  <body>
+    <journal>
+      <journal_metadata>
+        <full_title>The Open Journal of Astrophysics</full_title>
+        <abbrev_title>TheOJA</abbrev_title>
+        <issn media_type="electronic">2565-6120</issn>
+        <doi_data>
+          <doi>10.21105/astro</doi>
+          <resource>http://astro.theoj.org</resource>
+        </doi_data>
+      </journal_metadata>
+      <journal_issue>
+        <publication_date media_type="online">
+          <month>03</month><day>16</day><year>2023</year>
+        </publication_date>
+        <journal_volume>
+          <volume>6</volume>
+        </journal_volume>
+      </journal_issue>
+      <journal_article publication_type="full_text">
+        <titles>
+          <title>From BeyondPlanck to Cosmoglobe: Open Science, Reproducibility, and Data Longevity</title>
+        </titles>
+        <contributors>
+          <person_name sequence="first" contributor_role="author">
+            <given_name>S.</given_name>
+            <surname>Gerakakis</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>Brilenkov</surname>
+       </person_name>
+   	  <person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>Ieronymaki</surname>
+       </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>San</surname>
+          </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>D. J.</given_name> 
+          <surname>Watts</surname>
+	  <ORCID>https://orcid.org/0000-0002-5437-6121</ORCID>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>K. J.</given_name> 
+          <surname>Andersen</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>R.</given_name> 
+          <surname>Aurlien</surname>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>R.</given_name> 
+          <surname>Banerji</surname>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>A.</given_name> 
+          <surname>Basyrov</surname>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>Bersanelli</surname>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>S.</given_name> 
+          <surname>Bertocco</surname>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>Carbone</surname>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>L. P. L.</given_name> 
+          <surname>Colombo</surname>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>H. K.</given_name> 
+          <surname>Eriksen</surname>
+          </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>J. R.</given_name> 
+          <surname>Eskilt</surname>
+          </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>M. K.</given_name> 
+          <surname>Foss</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>C.</given_name> 
+          <surname>Franceschet</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>U.</given_name> 
+          <surname>Fuskeland</surname>
+	  <ORCID>https://orcid.org/0000-0003-1077-298X</ORCID>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>S.</given_name> 
+          <surname>Galeotta</surname>
+	  <ORCID>https://orcid.org/0000-0002-3748-5115</ORCID>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>Galloway</surname>
+          <ORCID>https://orcid.org/0000-0001-9279-137X</ORCID>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>E.</given_name> 
+          <surname>Gjerløw</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>B.</given_name> 
+          <surname>Hensley</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>D.</given_name> 
+          <surname>Herman</surname>
+          <ORCID>https://orcid.org/0000-0003-1759-5437</ORCID>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>Iacobellis</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>H. T.</given_name> 
+          <surname>Ihle</surname>
+          <ORCID>https://orcid.org/0000-0003-3420-7766</ORCID>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J. B. </given_name> 
+          <surname>Jewell</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>A.</given_name> 
+          <surname>Karakci</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>E.</given_name> 
+          <surname>Keihänen</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>R.</given_name> 
+          <surname>Keskitalo</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J. G. S.</given_name> 
+          <surname>Lunde</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>G.</given_name> 
+          <surname>Maggio</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>D.</given_name> 
+          <surname>Maino</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>Maris</surname>
+          <ORCID>https://orcid.org/0000-0001-9442-2754</ORCID>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>S.</given_name> 
+          <surname>Paradiso</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>Reinecke</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>N.-O.</given_name> 
+          <surname>Stutzer</surname>
+          <ORCID>https://orcid.org/0000-0001-5301-1377</ORCID>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>A.-S.</given_name> 
+          <surname>Suur-Uski</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>T. L.</given_name> 
+          <surname>Svalheim</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>D.</given_name> 
+          <surname>Tavagnacco</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>H.</given_name> 
+          <surname>Thommesen</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>I. K.</given_name> 
+          <surname>Wehus</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>A.</given_name> 
+          <surname>Zacchei</surname>
+          </person_name>
+        </contributors>
+        <publication_date>
+          <month>03</month>
+          <day>16</day>
+          <year>2023</year>
+        </publication_date>
+        <publisher_item>
+          <item_number>10.21105/astro.2205.11262</item_number>
+        </publisher_item>
+        <doi_data>
+          <doi>10.21105/astro.2205.11262</doi>
+          <timestamp>20230316160000</timestamp>
+          <resource>https://astro.theoj.org/article/73126-from-beyondplanck-to-cosmoglobe-open-science-reproducibility-and-data-longevity</resource>
+        </doi_data>
+      </journal_article>
+    </journal>
+  </body>
+</doi_batch>
