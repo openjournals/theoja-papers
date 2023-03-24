@@ -1,7 +1,7 @@
 <doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
   <head>
     <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
-    <timestamp>20230324100000</timestamp>
+    <timestamp>20230324103000</timestamp>
     <depositor>
       <depositor_name>JOSS Admin</depositor_name>
       <email_address>admin@theoj.org</email_address>
@@ -62,8 +62,8 @@
           <item_number>10.21105/astro.2302.01942</item_number>
         </publisher_item>
         <doi_data>
-          <doi>10.21105/astro.23002.01942</doi>
-          <timestamp>20230324100000</timestamp>
+          <doi>10.21105/astro.2302.01942</doi>
+          <timestamp>20230324103000</timestamp>
           <resource>https://astro.theoj.org/article/73838-glass-generator-for-large-scale-structure</resource>
         </doi_data>
       </journal_article>
