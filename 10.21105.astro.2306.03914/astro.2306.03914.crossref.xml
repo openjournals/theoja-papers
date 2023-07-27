@@ -1,0 +1,152 @@
+<doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
+  <head>
+    <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
+    <timestamp>20230727080100</timestamp>
+    <depositor>
+      <depositor_name>JOSS Admin</depositor_name>
+      <email_address>admin@theoj.org</email_address>
+    </depositor>
+    <registrant>The Open Journal</registrant>
+  </head>
+  <body>
+    <journal>
+      <journal_metadata>
+        <full_title>The Open Journal of Astrophysics</full_title>
+        <abbrev_title>TheOJA</abbrev_title>
+        <issn media_type="electronic">2565-6120</issn>
+        <doi_data>
+          <doi>10.21105/astro</doi>
+          <resource>http://astro.theoj.org</resource>
+        </doi_data>
+      </journal_metadata>
+      <journal_issue>
+        <publication_date media_type="online">
+          <month>07</month><day>27</day><year>2023</year>
+        </publication_date>
+        <journal_volume>
+          <volume>6</volume>
+        </journal_volume>
+      </journal_issue>
+      <journal_article publication_type="full_text">
+        <titles>
+          <title>The fastest stars in the Galaxy</title>
+        </titles>
+        <contributors>
+          <person_name sequence="first" contributor_role="author">
+            <given_name>Kareem</given_name>
+            <surname>Jahaveri</surname>
+          <ORCID>https://orcid.org/0000-0002-9632-6106</ORCID>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Ken J.</given_name> 
+          <surname>Shen</surname>
+          <ORCID>https://orcid.org/0000-0002-9632-6106</ORCID>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Vedant</given_name> 
+          <surname>Chandra</surname>
+          <ORCID>https://orcid.org/0000-0002-0572-8012</ORCID>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Evan B.</given_name> 
+          <surname>Bauer</surname>
+          <ORCID>https://orcid.org/0000-0002-9908-8705</ORCID>
+	</person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Jim</given_name> 
+          <surname>Fuller</surname>
+          <ORCID>https://orcid.org/0000-0002-4544-0750</ORCID>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Jay</given_name> 
+          <surname>Strader</surname>
+          <ORCID>https://orcid.org/0000-0002-1468-9668</ORCID>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Laura</given_name> 
+          <surname>Chomiuk</surname>
+          <ORCID>https://orcid.org/0000-0002-8400-3705</ORCID>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Rohan P.</given_name> 
+          <surname>Naidu</surname>
+          <ORCID>https://orcid.org/0000-0003-3997-5705</ORCID>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Ilaria</given_name> 
+          <surname>Caiazzo</surname>
+          <ORCID>https://orcid.org/0000-0002-4770-5388</ORCID>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Antonio C.</given_name> 
+          <surname>Rodriguez</surname>
+          <ORCID>https://orcid.org/0000-0003-4189-9668</ORCID>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Pranav</given_name> 
+          <surname>Nagarajan</surname>
+          <ORCID>https://orcid.org/0000-0002-1386-0603</ORCID>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Natsuko</given_name> 
+          <surname>Yamaguchi</surname>
+          <ORCID>https://orcid.org/0000-0001-6970-1014</ORCID>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Zachary P.</given_name> 
+          <surname>Vanderbosch</surname>
+          <ORCID>https://orcid.org/0000-0002-0853-3464</ORCID>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Benjamin R.</given_name> 
+          <surname>Roulston</surname>
+          <ORCID>https://orcid.org/0000-0002-9453-7735</ORCID>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Boris</given_name> 
+          <surname>Gänsicke</surname>
+          <ORCID>https://orcid.org/0000-0002-4544-0750</ORCID>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Jiwon Jesse</given_name> 
+          <surname>Han</surname>
+          <ORCID>https://orcid.org/0000-0002-6800-5778</ORCID>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Kevin B.</given_name> 
+          <surname>Burdge</surname>
+          <ORCID>https://orcid.org/0000-0002-7226-836X</ORCID>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Alexei V.</given_name> 
+          <surname>Filippenko</surname>
+          <ORCID>https://orcid.org/0000-0003-3460-0103</ORCID>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Thomas G.</given_name> 
+          <surname>Brink</surname>
+          <ORCID>https://orcid.org/0000-0001-5955-2502</ORCID>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>WeiKang</given_name> 
+          <surname>Zheng</surname>
+          <ORCID>https://orcid.org/0000-0002-2636-6508</ORCID>
+         </person_name>
+        </contributors>
+        <publication_date>
+          <month>07</month>
+          <day>27</day>
+          <year>2023</year>
+        </publication_date>
+        <publisher_item>
+          <item_number>10.21105/astro.2306.03914</item_number>
+        </publisher_item>
+        <doi_data>
+          <doi>10.21105/astro.2306.03914</doi>
+          <timestamp>20230727080100</timestamp>
+          <resource>https://astro.theoj.org/article/84548-the-fastest-stars-in-the-galaxy</resource>
+        </doi_data>
+      </journal_article>
+    </journal>
+  </body>
+</doi_batch>
