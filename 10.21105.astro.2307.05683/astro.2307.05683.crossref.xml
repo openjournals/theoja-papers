@@ -1,7 +1,7 @@
 <doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
   <head>
     <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
-    <timestamp>20230727080200</timestamp>
+    <timestamp>20230915100000</timestamp>
     <depositor>
       <depositor_name>JOSS Admin</depositor_name>
       <email_address>admin@theoj.org</email_address>
@@ -34,7 +34,7 @@
         <contributors>
           <person_name sequence="first" contributor_role="author">
             <given_name>Pejvak</given_name>
-            <surname>Jahaveri</surname>
+            <surname>Javaheri</surname>
           <ORCID>https://orcid.org/0009-0001-2441-9864</ORCID>
          </person_name>
           <person_name sequence="additional" contributor_role="author">
@@ -58,7 +58,7 @@
         </publisher_item>
         <doi_data>
           <doi>10.21105/astro.2307.05683</doi>
-          <timestamp>20230727080200</timestamp>
+          <timestamp>20230915100000</timestamp>
           <resource>https://astro.theoj.org/article/84547-whfast512-a-symplectic-n-body-integrator-for-planetary-systems-optimized-with-avx512-instructions</resource>
         </doi_data>
       </journal_article>
