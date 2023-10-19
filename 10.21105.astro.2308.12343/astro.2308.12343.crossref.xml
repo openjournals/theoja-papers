@@ -1,0 +1,183 @@
+<doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
+  <head>
+    <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
+    <timestamp>20231019120100</timestamp>
+    <depositor>
+      <depositor_name>JOSS Admin</depositor_name>
+      <email_address>admin@theoj.org</email_address>
+    </depositor>
+    <registrant>The Open Journal</registrant>
+  </head>
+  <body>
+    <journal>
+      <journal_metadata>
+        <full_title>The Open Journal of Astrophysics</full_title>
+        <abbrev_title>TheOJA</abbrev_title>
+        <issn media_type="electronic">2565-6120</issn>
+        <doi_data>
+          <doi>10.21105/astro</doi>
+          <resource>http://astro.theoj.org</resource>
+        </doi_data>
+      </journal_metadata>
+      <journal_issue>
+        <publication_date media_type="online">
+          <month>10</month><day>18</day><year>2023</year>
+        </publication_date>
+        <journal_volume>
+          <volume>6</volume>
+        </journal_volume>
+      </journal_issue>
+      <journal_article publication_type="full_text">
+        <titles>
+          <title>Mitigating the noise of DESI mocks using analytic control variates</title>
+        </titles>
+        <contributors>
+          <person_name sequence="first" contributor_role="author">
+            <given_name>Boryana</given_name>
+            <surname>Hadzhiyska</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Martin J.</given_name> 
+          <surname>White</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Xinyi</given_name> 
+          <surname>Chen</surname>
+          </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Lehman H.</given_name> 
+          <surname>Garrison</surname>
+	</person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Joseph</given_name> 
+          <surname>DeRose</surname></person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Nikhil</given_name> 
+          <surname>Padmanabhan</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Cristhian</given_name> 
+          <surname>Garcia-Quintero</surname>
+          </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Juan</given_name> 
+          <surname>Mena-Fernández</surname>
+         </person_name>
+ 	<person_name sequence="additional" contributor_role="author">
+          <given_name>Shi-Fan</given_name> 
+          <surname>Chen</surname>
+         </person_name>        
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Hee-Jong</given_name> 
+          <surname>Seo</surname>
+         </person_name>   
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Patrick</given_name> 
+          <surname>McDonald</surname>
+         </person_name>  
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Jessica</given_name> 
+          <surname>Aguilar</surname>
+         </person_name> 
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Steven</given_name> 
+          <surname>Ahlen</surname>
+         </person_name>   
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>David</given_name> 
+          <surname>Brooks</surname>
+         </person_name>  
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Todd</given_name> 
+          <surname>Claybaugh</surname>
+         </person_name>  
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Axel</given_name> 
+          <surname>de la Macorra</surname>
+         </person_name> 
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Peter</given_name> 
+          <surname>Doel</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Andreu</given_name> 
+          <surname>Font-Ribera</surname>
+         </person_name>
+    	<person_name sequence="additional" contributor_role="author">
+          <given_name>Jaime E.</given_name> 
+          <surname>Forero-Romero</surname>
+         </person_name> 
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Satya Gontcho A</given_name> 
+          <surname>Gontcho</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Klaus</given_name> 
+          <surname>Honscheid</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Anthony</given_name> 
+          <surname>Kremin</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Martin</given_name> 
+          <surname>Landriau</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Marc</given_name> 
+          <surname>Manera</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Ramon</given_name> 
+          <surname>Miquel</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Jundan</given_name> 
+          <surname>Nie</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Nathalie</given_name> 
+          <surname>Palanque-Delabrouille</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Mehdi</given_name> 
+          <surname>Rezaie</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Graziano</given_name> 
+          <surname>Rossi</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Eusebio</given_name> 
+          <surname>Sanchez</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Michael</given_name> 
+          <surname>Schubnell</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Gregoy</given_name> 
+          <surname>Tarlé</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Zhimin</given_name> 
+          <surname>Zhou</surname>
+         </person_name>
+	</contributors>
+        <publication_date>
+          <month>10</month>
+          <day>18</day>
+          <year>2023</year>
+        </publication_date>
+        <publisher_item>
+          <item_number>10.21105/astro.2308.12343</item_number>
+        </publisher_item>
+        <doi_data>
+          <doi>10.21105/astro.2308.12343</doi>
+          <timestamp>20231019120100</timestamp>
+          <resource>https://astro.theoj.org/article/89126-mitigating-the-noise-of-desi-mocks-using-analytic-control-variates</resource>
+        </doi_data>
+      </journal_article>
+    </journal>
+  </body>
+</doi_batch>
