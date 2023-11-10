@@ -1,0 +1,79 @@
+<doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
+  <head>
+    <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
+    <timestamp>20231110200000</timestamp>
+    <depositor>
+      <depositor_name>JOSS Admin</depositor_name>
+      <email_address>admin@theoj.org</email_address>
+    </depositor>
+    <registrant>The Open Journal</registrant>
+  </head>
+  <body>
+    <journal>
+      <journal_metadata>
+        <full_title>The Open Journal of Astrophysics</full_title>
+        <abbrev_title>TheOJA</abbrev_title>
+        <issn media_type="electronic">2565-6120</issn>
+        <doi_data>
+          <doi>10.21105/astro</doi>
+          <resource>http://astro.theoj.org</resource>
+        </doi_data>
+      </journal_metadata>
+      <journal_issue>
+        <publication_date media_type="online">
+          <month>11</month><day>9</day><year>2023</year>
+        </publication_date>
+        <journal_volume>
+          <volume>6</volume>
+        </journal_volume>
+      </journal_issue>
+      <journal_article publication_type="full_text">
+        <titles>
+          <title>Dissecting the Thermal SZ Power Spectrum by Halo Mass and Redshift in SPT-SZ Data and Simulations</title>
+        </titles>
+        <contributors>
+          <person_name sequence="first" contributor_role="author">
+            <given_name>Josemanuel</given_name>
+            <surname>Hernandez</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Lindsey</given_name> 
+          <surname>Bleem</surname>
+         </person_name>
+          <person_name sequence="additional" contributor_role="author">
+          <given_name>Thomas</given_name> 
+          <surname>Crawford</surname>
+          </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Nicholas</given_name> 
+          <surname>Huang</surname>
+	</person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>Yuuki</given_name> 
+          <surname>Omori</surname></person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Srinivasan</given_name> 
+          <surname>Raghunathan</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Christian</given_name> 
+          <surname>Reichardt</surname>
+          </person_name>
+	</contributors>
+        <publication_date>
+          <month>11</month>
+          <day>9</day>
+          <year>2023</year>
+        </publication_date>
+        <publisher_item>
+          <item_number>10.21105/astro.2309.12475</item_number>
+        </publisher_item>
+        <doi_data>
+          <doi>10.21105/astro.2309.12475</doi>
+          <timestamp>20231110200000</timestamp>
+          <resource>https://astro.theoj.org/article/89991-dissecting-the-thermal-sz-power-spectrum-by-halo-mass-and-redshift-in-spt-sz-data-and-simulations</resource>
+        </doi_data>
+      </journal_article>
+    </journal>
+  </body>
+</doi_batch>
