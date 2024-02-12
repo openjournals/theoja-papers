@@ -1,0 +1,572 @@
+<doi_batch version="4.3.7" xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
+  <head>
+    <doi_batch_id>0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a34</doi_batch_id>
+    <timestamp>20240212090000</timestamp>
+    <depositor>
+      <depositor_name>JOSS Admin</depositor_name>
+      <email_address>admin@theoj.org</email_address>
+    </depositor>
+    <registrant>The Open Journal</registrant>
+  </head>
+  <body>
+    <journal>
+      <journal_metadata>
+        <full_title>The Open Journal of Astrophysics</full_title>
+        <abbrev_title>TheOJA</abbrev_title>
+        <issn media_type="electronic">2565-6120</issn>
+        <doi_data>
+          <doi>10.21105/astro</doi>
+          <resource>http://astro.theoj.org</resource>
+        </doi_data>
+      </journal_metadata>
+      <journal_issue>
+        <publication_date media_type="online">
+          <month>2</month><day>9</day><year>2024</year>
+        </publication_date>
+        <journal_volume>
+          <volume>7</volume>
+        </journal_volume>
+      </journal_issue>
+      <journal_article publication_type="full_text">
+        <titles>
+          <title>Galaxy Clusters Discovered via the Thermal Sunyaev-Zel’dovich Effect in the 500-square-degree SPTpol Survey</title>
+        </titles>
+        <contributors>
+          <person_name sequence="first" contributor_role="author">
+            <given_name>L. E.</given_name>
+            <surname>Bleem</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>Klein</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>T. M. C.</given_name> 
+          <surname>Abbot</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>P. A. R.</given_name> 
+          <surname>Ade</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>Aguena</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>O.</given_name> 
+          <surname>Alves</surname>
+         </person_name>
+         <person_name sequence="additional" contributor_role="author">
+          <given_name>A.J.</given_name> 
+          <surname>Anderson</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>F.</given_name> 
+          <surname>Andrade-Oliveira</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>B.</given_name> 
+          <surname>Ansarinejad</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>Archipley</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>M. L. N. </given_name> 
+          <surname>Ashby</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J. E.</given_name> 
+          <surname>Austermann</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>D.</given_name> 
+          <surname>Bacon</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J. A.</given_name> 
+          <surname>Beall</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>A. N.</given_name> 
+          <surname>Bender</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>B. A.</given_name> 
+          <surname>Benson</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>F.</given_name> 
+          <surname>Bianchini</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>S.</given_name> 
+          <surname>Bocquet</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>D.</given_name> 
+          <surname>Brooks</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>D. L.</given_name> 
+          <surname>Burke</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>Calzadilla</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J. E.</given_name> 
+          <surname>Carlstrom</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>A.</given_name> 
+          <surname>Carnero Rosell</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J.</given_name> 
+          <surname>Carretero</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>C. L.</given_name> 
+          <surname>Chang</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>P.</given_name> 
+          <surname>Chaubal</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>H. C.</given_name> 
+          <surname>Chiang</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>T-L.</given_name> 
+          <surname>Chou</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>R.</given_name> 
+          <surname>Citron</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>C.</given_name> 
+          <surname>Corbett Moran</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>Costanzi</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>Constanzi</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>T. M.</given_name> 
+          <surname>Crawford</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>A. T.</given_name> 
+          <surname>Crites</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>L. N.</given_name> 
+          <surname>da Costa</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>T.</given_name> 
+          <surname>de Haan</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J.</given_name> 
+          <surname>De Vicente</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>S.</given_name> 
+          <surname>Desai</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>M. A.</given_name> 
+          <surname>Dobbs</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>P.</given_name> 
+          <surname>Doel</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>W.</given_name> 
+          <surname>Everett</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>I.</given_name> 
+          <surname>Ferrero</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>B.</given_name> 
+          <surname>Flaugher</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>B.</given_name> 
+          <surname>Floyd</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>D.</given_name> 
+          <surname>Friedel</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J.</given_name> 
+          <surname>Frieman</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J.</given_name> 
+          <surname>Gallicchio</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J.</given_name> 
+          <surname>Garc'ia-Bellido</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>Gatti</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>E. M.</given_name> 
+          <surname>George</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>G.</given_name> 
+          <surname>Giannini</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>S.</given_name> 
+          <surname>Grandis</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>D.</given_name> 
+          <surname>Gruen</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>R. A.</given_name> 
+          <surname>Gruendl</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>N.</given_name> 
+          <surname>Gupta</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>G.</given_name> 
+          <surname>Gutierrez</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>N. W.</given_name> 
+          <surname>Halverson</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>S. R.</given_name> 
+          <surname>Hinton</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>S. R.</given_name> 
+          <surname>Hinton</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>G. P.</given_name> 
+          <surname>Holder</surname>
+         </person_name>
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>D. L.</given_name> 
+          <surname>Hollowood</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>W. L.</given_name> 
+          <surname>Holzapfel</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>K.</given_name> 
+          <surname>Honscheid</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J. D.</given_name> 
+          <surname>Hrubes</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>N.</given_name> 
+          <surname>Huang</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J.</given_name> 
+          <surname>Hubmayr</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>K. D.</given_name> 
+          <surname>Irwin</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J.</given_name> 
+          <surname>Mena-Fernández</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>D. J.</given_name> 
+          <surname>James</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>F.</given_name> 
+          <surname>Kéruzoré</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>L.</given_name> 
+          <surname>Knox</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>K.</given_name> 
+          <surname>Kuehn</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>O.</given_name> 
+          <surname>Lahav</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>A. T.</given_name> 
+          <surname>Lee</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>S.</given_name> 
+          <surname>Lee</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>D.</given_name> 
+          <surname>Li</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>A.</given_name> 
+          <surname>Lowitz</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J. L.</given_name> 
+          <surname>Marshal</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>McDonald</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J. J.</given_name> 
+          <surname>McMahon</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>F.</given_name> 
+          <surname>Menanteau</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>S. S.</given_name> 
+          <surname>Meyer</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>R.</given_name> 
+          <surname>Miquel</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J. J.</given_name> 
+          <surname>Mohr</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J.</given_name> 
+          <surname>Montgomery</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J.</given_name> 
+          <surname>Myles</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>T.</given_name> 
+          <surname>Natoli</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J. P.</given_name> 
+          <surname>Nibarger</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>G. I.</given_name> 
+          <surname>Noble</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>V.</given_name> 
+          <surname>Novosad</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>R. L. C.</given_name> 
+          <surname>Ogando</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>S.</given_name> 
+          <surname>Padin</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>S.</given_name> 
+          <surname>Patil</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>M. E. S.</given_name> 
+          <surname>Pereira</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>A.</given_name> 
+          <surname>Pieres</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>A. A.</given_name> 
+          <surname>Plazas Malag'on</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>C.</given_name> 
+          <surname>Pryke</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>C. L.</given_name> 
+          <surname>Reichardt</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>Rodr'iguez-Monroy</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>A. K.</given_name> 
+          <surname>Romer</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J. E.</given_name> 
+          <surname>Ruhl</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>B. R.</given_name> 
+          <surname>Saliwanchik</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>L.</given_name> 
+          <surname>Salvati</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>E.</given_name> 
+          <surname>Sanchez</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>A.</given_name> 
+          <surname>Saro</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>K. K.</given_name> 
+          <surname>Schaffer</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>T.</given_name> 
+          <surname>Schrabback</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>I.</given_name> 
+          <surname>Sevilla-Noarbe</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>C.</given_name> 
+          <surname>Sievers</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>G.</given_name> 
+          <surname>Smecher</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>Smith</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>T.</given_name> 
+          <surname>Somboonpanyakul</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>B.</given_name> 
+          <surname>Stalder</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>A. A.</given_name> 
+          <surname>Stark</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>E.</given_name> 
+          <surname>Suchyta</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>M. E. C.</given_name> 
+          <surname>Swanson</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>G.</given_name> 
+          <surname>Tarle</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>C.</given_name> 
+          <surname>To</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>C.</given_name> 
+          <surname>Tucker</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>T.</given_name> 
+          <surname>Veach</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J. D.</given_name> 
+          <surname>Vieira</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>M.</given_name> 
+          <surname>Vincenzi</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>G.</given_name> 
+          <surname>Wang</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J.</given_name> 
+          <surname>Weller</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>N.</given_name> 
+          <surname>Whitehorn</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>P.</given_name> 
+          <surname>Wiseman</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>W. L. K.</given_name> 
+          <surname>Wu</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>V.</given_name> 
+          <surname>Yefremenko</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>J. A.</given_name> 
+          <surname>Zebrowski</surname>
+         </person_name>	
+	<person_name sequence="additional" contributor_role="author">
+          <given_name>Y.</given_name> 
+          <surname>Zhang</surname>
+         </person_name>	
+        </contributors>
+        <publication_date>
+          <month>2</month>
+          <day>9</day>
+          <year>2024</year>
+        </publication_date>
+        <publisher_item>
+          <item_number>10.21105/astro.2311.07512</item_number>
+        </publisher_item>
+        <doi_data>
+          <doi>10.21105/astro.2311.07512</doi>
+          <timestamp>20240212090000</timestamp>
+          <resource>https://astro.theoj.org/article/93084-galaxy-clusters-discovered-via-the-thermal-sunyaev-zel-dovich-effect-in-the-500-square-degree-sptpol-survey</resource>
+        </doi_data>
+      </journal_article>
+    </journal>
+  </body>
+</doi_batch>
